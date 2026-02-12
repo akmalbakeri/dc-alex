@@ -1,1 +1,0 @@
-This is data cleaning project based on this dataset : https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training/data
